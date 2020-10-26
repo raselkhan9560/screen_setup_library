@@ -1,3 +1,17 @@
+
+[![](https://jitpack.io/v/raselkhan9560/screen_setup_library.svg)](https://jitpack.io/#raselkhan9560/screen_setup_library)
+
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+	dependencies {
+	        implementation 'com.github.raselkhan9560:screen_setup_library:Tag'
+	}
+
 # screen_setup_library
 Use all function before your design setup
 
