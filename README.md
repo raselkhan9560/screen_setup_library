@@ -9,7 +9,8 @@ allprojects {
 	}
 
 	dependencies {
-	        implementation 'com.github.raselkhan9560:screen_setup_library:Tag'
+	        	        implementation 'com.github.raselkhan9560:screen_setup_library:1.0.1'
+
 	}
 
 # screen_setup_library
